@@ -160,7 +160,9 @@ void main() {
 Answer briefly in your README submission notes:
 
 1. What is the difference between `final` and `const`?
+Final it stores the value during the run time, unlike const which does that in the compilation process.
 2. Why can `dynamic` change from `String` to `int`?
+// It is not specified to a specific type and it can change between each becuase it is not bind to any type
 
 ---
 
